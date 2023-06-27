@@ -9,13 +9,13 @@ It redirects the website request from facebook to any blog while keeping the met
 - Environment variables (see below)
 
 ```
-git clone https://github.com/viswaah/vercel-redirect.git
+https://github.com/viswaah/vercel-redirect.git
 ```
 
 Add an `.env.local` file to the root with the following:
 
-```
-GRAPHQL_ENDPOINT="https://techsea.online/graphql/"
+```GRAPHQL_ENDPOINT="https://wordpressite.com/graphql/"
+
 ```
 
 Then run the development server,
